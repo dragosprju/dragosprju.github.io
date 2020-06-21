@@ -1,0 +1,3 @@
+[submodule "jobshop"]
+	path = jobshop
+	url = https://github.com/dragosprju/jobshop2015.git
